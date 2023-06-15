@@ -8,6 +8,10 @@ DolphinScheduler version:3.1.7
 
 OS:Linux/Ubuntu
 
+# Vulnerability overview
+
+There are unauthorized access vulnerabilities in swagger pages and api interface documents, and anyone can access them.
+
 # Vulnerability details
 Access vulnerability address:`/dolphinscheduler/swagger-ui/index.html?language=zh_CN&lang=cn`,
 you can access swagger api pages without authorization
